@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby RSS Feed]]></title><description><![CDATA[Tyra is a fast, feminine, and chic Gatsby.js theme.]]></description><link>https://tyra-starter.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 May 2020 09:29:08 GMT</lastBuildDate><item><title><![CDATA[gameper post]]></title><description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id varius velit. Nullam convallis finibus nisl nec fringilla. Morbi…]]></description><link>https://tyra-starter.netlify.com/gameper</link><guid isPermaLink="false">https://tyra-starter.netlify.com/gameper</guid><pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id varius velit. Nullam convallis finibus nisl nec fringilla. Morbi venenatis quam id luctus varius. Mauris quis eros in turpis blandit dapibus. Donec vestibulum cursus tincidunt. Proin laoreet diam ante, at convallis tellus gravida et. Fusce ac varius nulla. Curabitur eget elit aliquam, porta urna at, lacinia velit.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby RSS Feed]]></title><description><![CDATA[Tyra is a fast, feminine, and chic Gatsby.js theme.]]></description><link>https://tyra-starter.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 May 2020 09:30:47 GMT</lastBuildDate><item><title><![CDATA[gameper post]]></title><description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id varius velit. Nullam convallis finibus nisl nec fringilla. Morbi…]]></description><link>https://tyra-starter.netlify.com/gameper</link><guid isPermaLink="false">https://tyra-starter.netlify.com/gameper</guid><pubDate>Thu, 04 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id varius velit. Nullam convallis finibus nisl nec fringilla. Morbi venenatis quam id luctus varius. Mauris quis eros in turpis blandit dapibus. Donec vestibulum cursus tincidunt. Proin laoreet diam ante, at convallis tellus gravida et. Fusce ac varius nulla. Curabitur eget elit aliquam, porta urna at, lacinia velit.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1400px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/9568a/flatlay.jpg&quot;
+    href=&quot;/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/9568a/flatlay.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -18,13 +18,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Alt Text&quot;
         title=&quot;Alt Text&quot;
-        src=&quot;/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/d165a/flatlay.jpg&quot;
-        srcset=&quot;/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/70ebb/flatlay.jpg 350w,
-/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/29d31/flatlay.jpg 700w,
-/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/d165a/flatlay.jpg 1400w,
-/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/1f368/flatlay.jpg 2100w,
-/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/e3def/flatlay.jpg 2800w,
-/Gatsby/static/ba4039600d3035d22108ed9a9a844fa4/9568a/flatlay.jpg 3024w&quot;
+        src=&quot;/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/d165a/flatlay.jpg&quot;
+        srcset=&quot;/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/70ebb/flatlay.jpg 350w,
+/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/29d31/flatlay.jpg 700w,
+/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/d165a/flatlay.jpg 1400w,
+/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/1f368/flatlay.jpg 2100w,
+/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/e3def/flatlay.jpg 2800w,
+/gatsby/static/ba4039600d3035d22108ed9a9a844fa4/9568a/flatlay.jpg 3024w&quot;
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -46,7 +46,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/4b319/eyeshadow.jpg&quot;
+    href=&quot;/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/4b319/eyeshadow.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -59,13 +59,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Alt Text&quot;
         title=&quot;Alt Text&quot;
-        src=&quot;/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/d165a/eyeshadow.jpg&quot;
-        srcset=&quot;/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/70ebb/eyeshadow.jpg 350w,
-/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/29d31/eyeshadow.jpg 700w,
-/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/d165a/eyeshadow.jpg 1400w,
-/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/1f368/eyeshadow.jpg 2100w,
-/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/e3def/eyeshadow.jpg 2800w,
-/Gatsby/static/126e98dc8cb98cb1b775f8a4054be207/4b319/eyeshadow.jpg 5472w&quot;
+        src=&quot;/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/d165a/eyeshadow.jpg&quot;
+        srcset=&quot;/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/70ebb/eyeshadow.jpg 350w,
+/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/29d31/eyeshadow.jpg 700w,
+/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/d165a/eyeshadow.jpg 1400w,
+/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/1f368/eyeshadow.jpg 2100w,
+/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/e3def/eyeshadow.jpg 2800w,
+/gatsby/static/126e98dc8cb98cb1b775f8a4054be207/4b319/eyeshadow.jpg 5472w&quot;
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -106,7 +106,7 @@ But we can still have code blocks.
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/Gatsby/static/f7c55886a9b887b4c589a167f9828731/cd3c9/friends.jpg&quot;
+    href=&quot;/gatsby/static/f7c55886a9b887b4c589a167f9828731/cd3c9/friends.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -119,13 +119,13 @@ But we can still have code blocks.
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Alt Text&quot;
         title=&quot;Alt Text&quot;
-        src=&quot;/Gatsby/static/f7c55886a9b887b4c589a167f9828731/d165a/friends.jpg&quot;
-        srcset=&quot;/Gatsby/static/f7c55886a9b887b4c589a167f9828731/70ebb/friends.jpg 350w,
-/Gatsby/static/f7c55886a9b887b4c589a167f9828731/29d31/friends.jpg 700w,
-/Gatsby/static/f7c55886a9b887b4c589a167f9828731/d165a/friends.jpg 1400w,
-/Gatsby/static/f7c55886a9b887b4c589a167f9828731/1f368/friends.jpg 2100w,
-/Gatsby/static/f7c55886a9b887b4c589a167f9828731/e3def/friends.jpg 2800w,
-/Gatsby/static/f7c55886a9b887b4c589a167f9828731/cd3c9/friends.jpg 6024w&quot;
+        src=&quot;/gatsby/static/f7c55886a9b887b4c589a167f9828731/d165a/friends.jpg&quot;
+        srcset=&quot;/gatsby/static/f7c55886a9b887b4c589a167f9828731/70ebb/friends.jpg 350w,
+/gatsby/static/f7c55886a9b887b4c589a167f9828731/29d31/friends.jpg 700w,
+/gatsby/static/f7c55886a9b887b4c589a167f9828731/d165a/friends.jpg 1400w,
+/gatsby/static/f7c55886a9b887b4c589a167f9828731/1f368/friends.jpg 2100w,
+/gatsby/static/f7c55886a9b887b4c589a167f9828731/e3def/friends.jpg 2800w,
+/gatsby/static/f7c55886a9b887b4c589a167f9828731/cd3c9/friends.jpg 6024w&quot;
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -147,7 +147,7 @@ But we can still have code blocks.
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/ae72f/balloons.jpg&quot;
+    href=&quot;/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/ae72f/balloons.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -160,13 +160,13 @@ But we can still have code blocks.
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Alt Text&quot;
         title=&quot;Alt Text&quot;
-        src=&quot;/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/d165a/balloons.jpg&quot;
-        srcset=&quot;/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/70ebb/balloons.jpg 350w,
-/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/29d31/balloons.jpg 700w,
-/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/d165a/balloons.jpg 1400w,
-/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/1f368/balloons.jpg 2100w,
-/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/e3def/balloons.jpg 2800w,
-/Gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/ae72f/balloons.jpg 3555w&quot;
+        src=&quot;/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/d165a/balloons.jpg&quot;
+        srcset=&quot;/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/70ebb/balloons.jpg 350w,
+/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/29d31/balloons.jpg 700w,
+/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/d165a/balloons.jpg 1400w,
+/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/1f368/balloons.jpg 2100w,
+/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/e3def/balloons.jpg 2800w,
+/gatsby/static/aa456b8076295b3a56b0c50c0fd412ea/ae72f/balloons.jpg 3555w&quot;
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -189,7 +189,7 @@ But we can still have code blocks.
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/0f98f/pen-4337524_1920.jpg&quot;
+    href=&quot;/gatsby/static/c79b7af053a71342e5c399b0828fc81f/0f98f/pen-4337524_1920.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -202,11 +202,11 @@ But we can still have code blocks.
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;computer&quot;
         title=&quot;computer&quot;
-        src=&quot;/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/d165a/pen-4337524_1920.jpg&quot;
-        srcset=&quot;/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/70ebb/pen-4337524_1920.jpg 350w,
-/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/29d31/pen-4337524_1920.jpg 700w,
-/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/d165a/pen-4337524_1920.jpg 1400w,
-/Gatsby/static/c79b7af053a71342e5c399b0828fc81f/0f98f/pen-4337524_1920.jpg 1920w&quot;
+        src=&quot;/gatsby/static/c79b7af053a71342e5c399b0828fc81f/d165a/pen-4337524_1920.jpg&quot;
+        srcset=&quot;/gatsby/static/c79b7af053a71342e5c399b0828fc81f/70ebb/pen-4337524_1920.jpg 350w,
+/gatsby/static/c79b7af053a71342e5c399b0828fc81f/29d31/pen-4337524_1920.jpg 700w,
+/gatsby/static/c79b7af053a71342e5c399b0828fc81f/d165a/pen-4337524_1920.jpg 1400w,
+/gatsby/static/c79b7af053a71342e5c399b0828fc81f/0f98f/pen-4337524_1920.jpg 1920w&quot;
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
