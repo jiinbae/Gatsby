@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/Gatsby",
+  pathPrefix: "gatsby",
   siteMetadata: {
     navbarLinks: [
       {to: "/makeup", name: "Makeup"},
